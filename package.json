@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "path": "^0.12.7",
+    "speak-tts": "^2.0.8"
+  }
+}

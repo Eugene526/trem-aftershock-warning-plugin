@@ -1,0 +1,30 @@
+{
+  "timestamp": 1746950170600,
+  "version": "1.0.0",
+  "fileHashes": {
+    "index.js": "c0f91d4c85a10e2963a7e50fe6246eb4d8d6462a38fbbf9bf6a3f8d8b479e878",
+    "info.json": "921a8d7a2809ce88804c63d36df151e8f28b48ec95af36f81adc8ced72267550",
+    "node_modules/inherits/inherits.js": "7af9a5f76c00f72bed44b83824a8acd67febcfd3d34fd293c20c35aa7e6657f6",
+    "node_modules/inherits/inherits_browser.js": "34a98a1fcd39e12adbc98cc2d6dc3d99bb5a5a83ce8e57050826e9e539b4ecb0",
+    "node_modules/path/path.js": "2d4c05fb93088ac77ed499cf9dc5ea8d3e6f2ed38354d70037af5db47e02c9fb",
+    "node_modules/process/browser.js": "a199f9fdd8f0f94be4bfe5407c4969d261aa6f080c372c1a359815dc6187f32c",
+    "node_modules/process/index.js": "6d7fc57639a3deb4b7cbd55eafae4d9e7b377873b9ce5e6a689e47711965912a",
+    "node_modules/process/test.js": "22067afbb201ba00a54446214f07447cec8c5b2a7b9fb11f1a6e79c64b8fcd4f",
+    "node_modules/speak-tts/demo/build/demo.bundle.js": "2b68839c52a59dde14273cfc246a7f6c8aa02763ff6882ff563f9b364f3780b8",
+    "node_modules/speak-tts/demo/build/index.html": "76bf9e622a17f48cb73cb19103ff55fdf370f13fe485e5c926dedf45066ddb72",
+    "node_modules/speak-tts/demo/demo.js": "d415ba63e656b44a0a74f573ceb77b1d340a0a11317f1470e404b9feeb081bbe",
+    "node_modules/speak-tts/demo/dist/demo.bundle.js": "8a224853ab0c08e92a91f4763c63055c54116df62cfb9d6295a2d778d9a87f56",
+    "node_modules/speak-tts/demo/dist/index.html": "ec491077a46503b92449c95a2d97b13d0046716479a1db6dcec163418d5727bb",
+    "node_modules/speak-tts/lib/ios.js": "c17c2a361a4e88da82214daa2fb5c578d2a9a48a5744e5c3cee5294419f83720",
+    "node_modules/speak-tts/lib/speak-tts.js": "353409af948b742df2c0ffce0dc4f34e73d0a87fb375bf96247bfa7c2ec31ad8",
+    "node_modules/speak-tts/lib/utils.js": "4ee01e6ea3aaf7653e9cab77e0deb9e51c5e393741730ad5984a668a7e7445dd",
+    "node_modules/speak-tts/webpack.config.js": "9d1ef301ab015e83afa13652290ccaf5a46c3050bf8a4d9f74080b45715caec7",
+    "node_modules/speak-tts/webpack.production.config.js": "fcc5d19b9cfa1e570da0f5c70c5c523c063ec3ec4ddb3a14f12b2927a6198879",
+    "node_modules/util/support/isBuffer.js": "c47e9320bed7c14cc440584c052a5fd4f9602f6b25063a6c29af9a57cd8667d3",
+    "node_modules/util/support/isBufferBrowser.js": "a19427e215657e8c4a83a9a8376e81d73e52a9383002e6af901282be04546256",
+    "node_modules/util/util.js": "97e1e87e074819dc1bca11437e9e0e3c2d1beaaed1b8e05d7802d876f3798ecc",
+    "web/index.html": "1d6e2567c0f04935339bf1732a5cde9a666f708674481c607f16766e65b438c4"
+  },
+  "signature": "EALq82xcNlxbRHxyftNONDaWGn/s4E4rTeyK76wXOK9FhOv+0ezlfkLgqXCtLHHyqUP1wGkTSDkCwJ0YgXvU8zO7NKNb2iQFZDj9ohBU0vUlKKc7yo5xSUcBg481BFzRdvFAsWfNvradcRJjiZY/2S2zHxyPe+IbmGrmJH3ymG8sbDYgksL9A7Un4L6yhqp5s++XZEifgICczz6p1haU+qq+vBtqR4nvoGa/JWtudirGdGcrzlY181I0NcuRzWwOVJrJxu8/zQvudowM9ABvhJI1XFWDVhRRTjN2M96jPXUHw4IKq1cY9Nr+6FseQCwmGWnFS4hi667HU4Qv6E2wUA==",
+  "keyId": "official"
+}
