@@ -2,7 +2,7 @@
     "name": "aftershock-warning",
     "version": "1.0.0",
     "description": {
-      "zh_tw": "餘震預警與語音播報擴充功能"
+      "zh_tw": "餘震預警語音播報擴充功能"
     },
     "author": ["eugene526"],
     "dependencies": {
