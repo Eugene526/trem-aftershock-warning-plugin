@@ -3,7 +3,7 @@ const path = require('path');
 const appPath = path.dirname(process.execPath);
 const isDev = process.defaultApp || /[\/\\]electron[\/\\]/.test(process.execPath);
 const utils = isDev ? require(path.join(appPath, '../../../src/js/index/utils/utils.js')) : require(path.join(appPath, './resources/app/src/js/index/utils/utils.js'));
-
+console.log(`${appPath}`)
 class Plugin {
   #ctx;
   #config;
