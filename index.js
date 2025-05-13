@@ -2,8 +2,13 @@ const { ipcRenderer } = require("electron");
 const path = require('path');
 const appPath = path.dirname(process.execPath);
 const isDev = process.defaultApp || /[\/\\]electron[\/\\]/.test(process.execPath);
-const utils = isDev ? require(path.join(appPath, '../../../src/js/index/utils/utils.js')) : require(path.join(appPath, './resources/app/src/js/index/utils/utils.js'));
-console.log(appPath)
+const utils = isDev ? require(path.join(appPath, '../../../../../../../../../src/js/index/utils/utils.js')) : require(path.join(appPath, '../../../../resources/app.asar/src/js/index/utils/utils.js'));
+const utilsPath = isDev
+  ? path.join(appPath, '../../../src/js/index/utils/utils.js')
+  : path.join(appPath, '../../../../resources/app.asar/src/js/index/utils/utils.js');
+
+console.log('目前執行模式：', isDev ? '開發模式 (isDev)' : '打包模式 (Production)');
+console.log('組合後的 utils 路徑：', utilsPath);
 class Plugin {
   #ctx;
   #config;
